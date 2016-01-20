@@ -34,6 +34,9 @@ There are three .VBF Source files:
 
 ChangeLog
 
+20 January 2016. Alike-Regular.ttf (v.1.212) (Alexei Vanyashin)
+- Updated to fix GPOS error found with ot-sanitise
+
 9 September 2011. AlikeRegular_v1.2_PS_Source.vfb (v.1.210) (Alexei Vanyashin)
 — Major design adjustments: proportions more regular, reworked serif treatment
 — Fully Hinted
