@@ -25,14 +25,17 @@ More specifically, this release supports the following Unicode
 ranges: Latin-1
 
 To contribute to the project contact Alexei Vanyashin at 
-a@cyreal.org
+a at cyreal.org
 
 There are three .VBF Source files:
-1. Alike-OTF.vbf (Original Source files with contour overlaps)
-2. Alike-OTF-optimized.vbf (Merged and optimized file)
-3. Alike-TTF.vbf (TTF file with hints)
+1. Alike-Regular-OTF.vbf (Original Source files with contour overlaps)
+2. Alike-Regular-OTF-optimized.vbf (Merged and optimized file)
+3. Alike-Regular-TTF.vbf (TTF file with hints)
 
 ChangeLog
+
+22 January 2016. Alike-Regular.ttf (v.1.213) (Alexei Vanyashin)
+- Updated kerning
 
 20 January 2016. Alike-Regular.ttf (v.1.212) (Alexei Vanyashin)
 - Updated to fix GPOS error found with ot-sanitise
