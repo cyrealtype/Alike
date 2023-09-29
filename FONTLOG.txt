@@ -40,18 +40,27 @@ ChangeLog
 20 January 2016. Alike-Regular.ttf (v.1.212) (Alexei Vanyashin)
 - Updated to fix GPOS error found with ot-sanitise
 
-9 September 2011. AlikeRegular_v1.2_PS_Source.vfb (v.1.210) (Alexei Vanyashin)
+3 September 2013. AlikeRegular-OTF.vbf (v.1.211) (Alexei Vanyashin)
+— Adjusted width of endash glyph. Thanks Jochen Uebel.
+
+9 September 2011. AlikeRegular_v1.2_PS_Source.vfb (v.1.210) (Sveta Sebyakina)
 — Major design adjustments: proportions more regular, reworked serif treatment
 — Fully Hinted
 
-3 September 2013. AlikeRegular-OTF.vbf (v.1.211) (Alexei Vanyashin)
-— Adjusted width of endash glyph. Thanks Jochen Uebel.
+20 August 2011. AlikeRegular_PS_Source (v.1.000) (Sveta Sebyakina)
+— Major design adjustments: proportions more regular, reworked serif treatment
+— Fully Hinted
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
 This list is in alphabetical order.
 
+N: Sveta Sebyakina
+E: ssebyakina@gmail.com
+W: http://sebyakina.com/
+D: Author and Designer
+
 N: Alexei Vanyashin
 E: a@cyreal.org
 W: www.cyreal.org
-D: Designer and Mastering
+D: Font Engineering
