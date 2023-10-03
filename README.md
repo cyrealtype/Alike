@@ -15,6 +15,7 @@ could be expanded to support other scripts.
 
 ### Copyright
 Copyright 2009 (c) Svetlana Sebyakina (http://sebyakina.com/)
+
 Copyright 2011 (c) Cyreal (www.cyreal.org)
 
 ### License
