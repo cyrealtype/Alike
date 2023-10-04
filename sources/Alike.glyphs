@@ -10,7 +10,7 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright 2009 Svetlana Sebyakina (http://sebyakina.com), Copyright 2011 Cyreal (http://cyreal.org) with Reserved Font Name \"Alike\"";
+copyright = "Copyright 2009 Sveta Sebyakina (http://sebyakina.com), Copyright 2011 Cyreal (http://cyreal.org) with Reserved Font Name \"Alike\"";
 customParameters = (
 {
 name = license;
@@ -22,7 +22,7 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = trademark;
-value = "Alike is a trademark of Svetlana Sebyakina, Cyreal";
+value = "Alike is a trademark Cyreal";
 },
 {
 name = vendorID;
@@ -33,8 +33,8 @@ name = note;
 value = "Alike is a text typeface with expressive and tense letterforms.\012Its design features are said to have czech influence, but are\012softened for a friendlier feel.\012\012The proportions are regular and the contrast is low for\012a pleasant reading experience.\012\012Designed by Svetlana Sebyakina 2009-2011.\012\012Alike is a Unicode typeface family that supports \012languages that use the Latin script and its variants, and \012could be expanded to support other scripts.";
 }
 );
-date = "2023-09-29 13:00:31 +0000";
-designer = "Svetlana Sebyakina";
+date = "2023-10-04 13:27:06 +0000";
+designer = "Sveta Sebyakina";
 designerURL = "http://sebyakina.com";
 familyName = Alike;
 featurePrefixes = (
@@ -14758,5 +14758,5 @@ tH = 45;
 };
 };
 versionMajor = 1;
-versionMinor = 220;
+versionMinor = 221;
 }
