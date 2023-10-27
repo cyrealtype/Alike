@@ -1,8 +1,5 @@
 {
-.appVersion = "3219";
-DisplayStrings = (
-"/foundryicon"
-);
+.appVersion = "3223";
 classes = (
 {
 automatic = 1;
@@ -10,15 +7,24 @@ code = "A Aacute Acircumflex Adieresis Agrave Aring Atilde AE B C Ccedilla D Eth
 name = Uppercase;
 }
 );
-copyright = "Copyright 2009 Sveta Sebyakina (http://sebyakina.com), Copyright 2011 Cyreal (http://cyreal.org) with Reserved Font Name \"Alike\"";
+copyright = "Copyright 2009 The Alike Project Authors (https://github.com/cyrealtype/Alike)";
 customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = trademark;
@@ -39,7 +45,8 @@ designerURL = "http://sebyakina.com";
 familyName = Alike;
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012\012\012\012\012\012";
+automatic = 1;
+code = "languagesystem DFLT dflt;\012";
 name = Languagesystems;
 }
 );
@@ -13166,6 +13173,14 @@ width = 260;
 );
 }
 );
+instances = (
+{
+instanceInterpolations = {
+"E67231B9-FA09-451D-8B80-B70CA73DDE32" = 1;
+};
+name = Regular;
+}
+);
 kerning = {
 "E67231B9-FA09-451D-8B80-B70CA73DDE32" = {
 "@MMK_L__KERN_A" = {
@@ -14758,5 +14773,5 @@ tH = 45;
 };
 };
 versionMajor = 1;
-versionMinor = 221;
+versionMinor = 300;
 }
