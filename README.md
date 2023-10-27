@@ -9,6 +9,8 @@ a pleasant reading experience.
 
 Designed by Svetlana Sebyakina 2009-2011
 
+![Sample Image](documentation/sample.png)
+
 Alike is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
@@ -17,6 +19,15 @@ could be expanded to support other scripts.
 Copyright 2009 (c) Svetlana Sebyakina (http://sebyakina.com/)
 
 Copyright 2011 (c) Cyreal (www.cyreal.org)
+
+## Changelog
+
+When you update your font (new version or new release), please report all notable changes here, with a date.
+
+**27 Oct 2023. Version 1.300 / Emma Marichal**
+- Font infos (fstype, Use Typo Metrics)
+- Missing Glyphs generated (GF Latin Core)
+- Comb accents added and composites created
 
 ### License
 
