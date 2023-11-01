@@ -3545,7 +3545,7 @@ unicode = 0126;
 },
 {
 glyphname = I;
-lastChange = "2023-11-01 09:22:04 +0000";
+lastChange = "2023-11-01 10:12:17 +0000";
 layers = (
 {
 anchors = (
@@ -3555,7 +3555,7 @@ position = "{170, 0}";
 },
 {
 name = ogonek;
-position = "{305, 10}";
+position = "{295, 10}";
 },
 {
 name = top;
@@ -4119,7 +4119,7 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2023-11-01 09:22:04 +0000";
+lastChange = "2023-11-01 10:12:17 +0000";
 layers = (
 {
 components = (
@@ -4128,7 +4128,7 @@ name = I;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 96, -12}";
+transform = "{1, 0, 0, 1, 86, -12}";
 }
 );
 layerId = "E67231B9-FA09-451D-8B80-B70CA73DDE32";
@@ -7628,7 +7628,7 @@ unicode = 021A;
 },
 {
 glyphname = U;
-lastChange = "2023-11-01 09:22:04 +0000";
+lastChange = "2023-11-01 10:12:24 +0000";
 layers = (
 {
 anchors = (
@@ -7638,7 +7638,7 @@ position = "{373, 0}";
 },
 {
 name = ogonek;
-position = "{671, 10}";
+position = "{538, 10}";
 },
 {
 name = top;
@@ -8286,7 +8286,7 @@ unicode = 016A;
 },
 {
 glyphname = Uogonek;
-lastChange = "2023-11-01 09:22:04 +0000";
+lastChange = "2023-11-01 10:12:24 +0000";
 layers = (
 {
 components = (
@@ -8295,7 +8295,7 @@ name = U;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 462, -12}";
+transform = "{1, 0, 0, 1, 329, -12}";
 }
 );
 layerId = "E67231B9-FA09-451D-8B80-B70CA73DDE32";
@@ -12736,7 +12736,7 @@ unicode = 0069;
 },
 {
 glyphname = idotless;
-lastChange = "2023-11-01 09:22:04 +0000";
+lastChange = "2023-11-01 10:12:37 +0000";
 layers = (
 {
 anchors = (
@@ -12746,7 +12746,7 @@ position = "{145, 0}";
 },
 {
 name = ogonek;
-position = "{272, 0}";
+position = "{267, 0}";
 },
 {
 name = top;
@@ -13254,7 +13254,7 @@ unicode = 012B;
 },
 {
 glyphname = iogonek;
-lastChange = "2023-11-01 09:22:04 +0000";
+lastChange = "2023-11-01 10:12:37 +0000";
 layers = (
 {
 components = (
@@ -13267,7 +13267,7 @@ transform = "{1, 0, 0, 1, 26, 0}";
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 63, -22}";
+transform = "{1, 0, 0, 1, 58, -22}";
 }
 );
 layerId = "E67231B9-FA09-451D-8B80-B70CA73DDE32";
