@@ -53,7 +53,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature sups;\012feature frac;\012feature ordn;\012feature case;\012feature locl;\012";
+code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012";
 name = aalt;
 },
 {
