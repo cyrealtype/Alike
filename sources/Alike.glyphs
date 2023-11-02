@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright 2009 The Alike Project Authors (https://github.com/cyrealtype/Alike)";
+copyright = "Copyright 2009 The Alike Project Authors (https://github.com/cyrealtype/Alike) with Reserved Font Name \"Alike\" and \"Alike Angular\".";
 customParameters = (
 {
 name = fsType;
